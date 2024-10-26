@@ -1,2 +1,2 @@
 # image-processing-labs
-A Repository for my image processing course labs.
+A repository for our image processing course labs.
